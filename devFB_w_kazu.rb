@@ -6,7 +6,7 @@ for i in 1..100 do
   elsif i%5==0
     print("Buzz\n")
   else
-    printf("%d",i)
+    printf("%d\n",i)
   end
 end
 
