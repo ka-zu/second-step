@@ -11,7 +11,7 @@ int main(){
 			printf("%2d: fizz\n",i);
 		}
 		else if( i%5==0 ){
-			printf("%2d: fizz\n",i);
+			printf("%2d: buzz\n",i);
 		}
 		else{
 			printf("%2d:\n",i);
